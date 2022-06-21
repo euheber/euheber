@@ -4,7 +4,7 @@ Hi 👋 My name is Heber Robert
 Web Developer
 -------------
 
-Learning to paint buttons on the internet.
+Learning to paint the buttons of the internet.
 
 * 🌍  I'm based in Cosmópolis, São Paulo - Brazil
 * 🖥️  See my portfolio at [Heber Robert | Front-end](http://euheber.github.io/heber-Robert-portfolio/)
