@@ -32,6 +32,6 @@ Learning to paint the buttons of the internet.
 
 <a href="http://www.github.com/euheber"><img src="https://github-readme-stats.vercel.app/api?username=euheber&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=22c55e&text_color=14b8a6&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="euheber's GitHub stats" /></a>
 
-<a href="http://www.github.com/euheber"><img src="https://activity-graph.herokuapp.com/graph?username=euheber&bg_color=000000&color=14b8a6&line=0891b2&point=14b8a6&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 
 <a href="https://github.com/euheber" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euheber&langs_count=10&title_color=22c55e&text_color=14b8a6&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
