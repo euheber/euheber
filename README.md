@@ -9,7 +9,7 @@ Learning to paint the buttons of the internet.
 * 🌍  I'm based in Cosmópolis, São Paulo - Brazil
 * 🖥️  See my portfolio at [Heber Robert | Front-end](http://euheber.github.io/heber-Robert-portfolio/)
 * ✉️  You can contact me at [euheber1@gmail.com](mailto:euheber1@gmail.com)
-* 🚀  I'm currently working on [My portfolio](http://euheber.github.io/heber-Robert-portfolio/)
+* 🚀  I'm currently working on [Riot login screen](https://euheber.github.io/Riot-games-login-/)
 * 🧠  I'm learning Vue JS
 
 ### Skills
