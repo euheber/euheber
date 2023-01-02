@@ -31,7 +31,6 @@ Learning to paint the buttons of the internet.
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/euheber"><img src="https://github-readme-stats.vercel.app/api?username=euheber&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&title_color=22c55e&text_color=14b8a6&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="euheber's GitHub stats" /></a>
 
 <a href="http://www.github.com/euheber"><img src="https://github-readme-streak-stats.herokuapp.com/?user=euheber&stroke=14b8a6&background=000000&ring=22c55e&fire=22c55e&currStreakNum=14b8a6&currStreakLabel=22c55e&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
