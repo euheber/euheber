@@ -10,7 +10,7 @@ Learning to paint the buttons of the internet.
 * 🖥️  See my portfolio at [Heber Robert | Front-end](https://heber-dev.vercel.app/)
 * ✉️  You can contact me at [euheber1@gmail.com](mailto:euheber1@gmail.com)
 * 🚀  I'm currently working on [Space Tourism multipage website](https://github.com/euheber/space-tourism)
-* 🧠  I'm learning SASS
+* 🧠  I'm learning Nuxt
 
 ### Skills
 
