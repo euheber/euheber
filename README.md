@@ -23,8 +23,6 @@ Learning to paint the buttons of the internet.
 </p>
 
 
-### Socials
-
 <b>My GitHub Stats</b>
 
 
