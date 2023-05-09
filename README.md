@@ -25,12 +25,3 @@ Learning to paint the buttons of the internet.
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 </p>
-                    
-                    
-
-<b>My GitHub Stats</b>
-
-
-<a href="http://www.github.com/euheber"><img src="https://github-readme-streak-stats.herokuapp.com/?user=euheber&stroke=14b8a6&background=000000&ring=22c55e&fire=22c55e&currStreakNum=14b8a6&currStreakLabel=22c55e&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
-
-
