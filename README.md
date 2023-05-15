@@ -9,7 +9,7 @@ Learning to paint the buttons of the internet.
 * 🌍  I'm based in Cosmópolis, São Paulo - Brazil
 * 🖥️  See my portfolio at [Heber Robert | Front-end](https://heber-dev.vercel.app/)
 * ✉️  You can contact me at [euheber1@gmail.com](mailto:euheber1@gmail.com)
-* 🚀  I'm currently working on [Multistep form](https://github.com/euheber/multistep-form) 
+* 🚀  I'm currently working on [Node blog](https://github.com/euheber/node-blog) 
 * 🧠  I'm learning Typescript
 
 ### Skills
