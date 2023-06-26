@@ -9,7 +9,8 @@ Learning to paint the buttons of the internet.
 * 🌍  I'm based in Cosmópolis, São Paulo - Brazil
 * 🖥️  See my portfolio at [Heber Robert | Front-end](https://heber-dev.vercel.app/)
 * ✉️  You can contact me at [euheber1@gmail.com](mailto:euheber1@gmail.com)
-* 🚀  I'm currently working on [Node blog](https://github.com/euheber/node-blog) 
+* 🚀  I'm currently working on [PaquetaStore](![image](https://github.com/euheber/euheber/assets/65196494/b1e1e91e-ffe5-40f1-8603-c08c104f8fde)
+) 
 * 🧠  I'm learning Node
 
 ### Skills
